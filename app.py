@@ -6,7 +6,7 @@ import numpy as np
 from sklearn.linear_model import LinearRegression
 
 st.set_page_config(layout="wide")
-st.title("🛰️ Satellite Tracker (ISS) with AI")
+st.title(" Satellite Tracker (ISS) with AI")
 
 # Step 1: Fetch TLE Data
 st.header("1. Fetching TLE Data")
